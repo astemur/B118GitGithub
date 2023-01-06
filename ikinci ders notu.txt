@@ -2,4 +2,5 @@
 -Git/Githup ikinci gun ikinci deneme.
 -Git/Githup ikinci gun üçüncü deneme.
 -Git/Githup ikinci gun branch ilk deneme.
-
+-Git/Githup ikinci gun branch ikinci deneme.
+-Git/Githup ikinci gun branch üçüncü deneme.
