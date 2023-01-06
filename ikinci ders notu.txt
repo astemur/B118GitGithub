@@ -1,2 +1,3 @@
 -Git/Githup ikinci gun ilk deneme.
 -Git/Githup ikinci gun ikinci deneme.
+-Git/Githup ikinci gun üçüncü deneme.
